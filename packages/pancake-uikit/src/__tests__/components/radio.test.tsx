@@ -37,16 +37,16 @@ it("renders correctly", () => {
     }
 
     .c0:hover:not(:disabled):not(:checked) {
-      box-shadow: 0px 0px 0px 1px #7645D9,0px 0px 0px 4px rgba(118,69,217,0.6);
+      box-shadow: 0px 0px 0px 1px #751c0b,0px 0px 0px 4px rgba(118,69,217,0.6);
     }
 
     .c0:focus {
       outline: none;
-      box-shadow: 0px 0px 0px 1px #7645D9,0px 0px 0px 4px rgba(118,69,217,0.6);
+      box-shadow: 0px 0px 0px 1px #751c0b,0px 0px 0px 4px rgba(118,69,217,0.6);
     }
 
     .c0:checked {
-      background-color: #31D0AA;
+      background-color: #EF694E;
     }
 
     .c0:checked:after {
